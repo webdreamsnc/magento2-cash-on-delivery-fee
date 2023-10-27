@@ -1,5 +1,5 @@
 {
-  "name": "webdreamsnc/cash-on-delivery-fee",
+  "name": "brandung/cash-on-delivery-fee",
   "description": "Adds a fee for cash on delivery payment method",
   "require": {
     "php": "^7.0.0||^8.2.0",
@@ -15,7 +15,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Webdreamsnc\\CashOnDeliveryFee\\": ""
+      "Brandung\\CashOnDeliveryFee\\": ""
     }
   }
 }
